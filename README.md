@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Live Demo 🌐
 
-Check out the live demo of Chef Borma: [Live Demo Link](https://chef-borma.netfly.app)
+Check out the live demo of Chef Borma: [Live Demo Link](https://chef-borma.netfly.app/)
 
 ---
 
